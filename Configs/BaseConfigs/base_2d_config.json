@@ -1,0 +1,25 @@
+{
+   "multiNets": {
+      "networks": 30,
+      "runs": 15,
+      "loader_reprod": false,
+      "make_plots": false
+   },
+   "data": {
+      "train_size": 50,
+      "test_size": 400
+   },
+   "neuralNet": {
+      "inputs": 1,
+      "outputs": 1
+   },
+   "training": {
+      "learning_rate": 0.01,
+      "epochs": 5000,
+      "batch_size": 16
+   },
+   "noise": {
+      "mean": 0.0,
+      "std": 4.0
+   }
+}

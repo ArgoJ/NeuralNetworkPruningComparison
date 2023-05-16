@@ -1,0 +1,12 @@
+{
+    "type": "l1_str",
+    "amount": 0.2,
+    "bias_or_weight": "weight",
+    "remove_nodes": true,
+    "prun_prev_params": true,
+    "prun_next_params": false,
+    "iterations": 5,
+    "schedule": "binom",
+    "last_iter_npp": true,
+    "method": "finetune"
+ }

@@ -1,0 +1,8 @@
+{
+   "type": "linf_str",
+   "amount": 0.2,
+   "bias_or_weight": "weight",
+   "remove_nodes": true,
+   "prun_prev_params": true,
+   "prun_next_params": false
+}

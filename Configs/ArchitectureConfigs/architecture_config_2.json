@@ -1,0 +1,11 @@
+{
+   "neuralNet": {
+      "degree": 1,
+      "layer": 3,
+      "nodes": 2
+   },
+   "multiNetStep": {
+      "layer_step": 0,
+      "node_step": 2
+   }
+}
